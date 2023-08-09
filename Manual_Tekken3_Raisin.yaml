@@ -1,0 +1,179 @@
+Manual_Tekken3_Raisin:1True 
+    progression_balancing: 50
+    accessibility: items
+
+game: Manual_Tekken3_Raisin
+name: Raisin
+
+
+starting_character:
+    Ogre: 1
+    Kuma: 1
+    Mokujin: 1
+    Julia Chang: 1
+    Paul Phoenix: 1
+    Ling Xiaoyu: 1
+    Yoshimitsu: 1
+    Nina Williams: 1
+    Heihachi Mishima: 1
+    King: 1
+    Lei Wulong: 1
+    Jin Kazama: 1
+    Hwoarang: 1
+    Dr. Bosconovic: 1
+    Forrest Law: 1
+    Bryan Fury: 1
+    Gon: 1
+    True Ogre: 1
+    Gun Jack: 1
+    Anna Williams: 1
+    Eddy Gordo: 1
+
+  triggers:
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Ogre
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Ogre: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Kuma
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Kuma: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Mokujin
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Mokujin: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Julia Chang
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Julia Chang: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Paul Phoenix
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Paul Phoenix: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Ling Xiaoyu
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Ling Xiaoyu: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Yoshimitsu
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Yoshimitsu: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Nina Williams
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Nina Williams: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Heihachi Mishima
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Heihachi Mishima: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: King
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            King: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Lei Wulong
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Lei Wulong: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Jin Kazama
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Jin Kazama: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Hwoarang
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Hwoarang: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Dr. Bosconovic
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Dr. Bosconovic: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Forrest Law
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Forrest Law: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Bryan Fury
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Bryan Fury: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Gon
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Gon: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: True Ogre
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            True Ogre: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Gun Jack
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Gun Jack: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Anna Williams
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Anna Williams: 1
+    - option_category: Manual_Tekken3_Raisin
+      option_name: starting_character
+      option_result: Eddy Gordo
+      options:
+        Manual_Tekken3_Raisin:
+          start_inventory:
+            Eddy Gordo: 1
